@@ -112,6 +112,23 @@ section h2{
     color: white;
 }
 
+#entre{
+    background-color: rgb(146, 45, 45);
+}
+
+#entre .articles article a{
+    background-color: red;
+    color: white;
+}
+
+#tecno{
+    background-color: rgb(41, 175, 175);
+}
+
+#tecno .articles article a{
+    background-color: blue;
+}
+
 
 
 
