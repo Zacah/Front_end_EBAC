@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(235, 245, 245);
+    display:block;
+}
+
+body header{
+    background-color: rgb(83, 189, 187);
+    color: white;
+    padding: 18px;
+}
+
+body header h1{
+    text-align: center;
+    border: 4px;
+    border-color: white;
+}
+
+body header p{
+    display: inline;
+}
+
+.container{
+    padding-top: 16px;
+    margin-left: 30px;
+}
+
+label{
+    font-family:Helvetica;
+    color: red;
+    margin-top: 8px;
+}
+
+
+
+
+
+
