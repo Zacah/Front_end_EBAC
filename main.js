@@ -4,7 +4,7 @@ const campoB = document.getElementById("campoB");
 const mensagem = document.getElementById("mensagem");
 
 formulario.addEventListener("submit", function(e) {
-  e.preventDefault(); // Evita o envio do formulário padrão
+  e.preventDefault();
 
   const valorA = parseFloat(campoA.value);
   const valorB = parseFloat(campoB.value);
